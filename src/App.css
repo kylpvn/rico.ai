@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  background: linear-gradient(89deg, #ff5edfab 0%, #04c8deb0 100%); /* w3c */
+}
+
+.particles {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+}
